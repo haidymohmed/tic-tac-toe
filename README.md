@@ -1,7 +1,6 @@
 # tic_tac_toe_game
 
-A new Flutter project.
-
+tic tac toe game using flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
